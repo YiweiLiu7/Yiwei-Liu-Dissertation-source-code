@@ -1,0 +1,8 @@
+pandas==2.3.3
+numpy==2.3.5
+prince==0.19.0
+scikit-learn==1.7.2
+scikit-fuzzy==0.5.0
+scikit-survival==0.26.0
+matplotlib==3.10.6
+seaborn==0.13.2
